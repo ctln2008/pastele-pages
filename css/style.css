@@ -1,0 +1,39 @@
+body {
+    background-image: url(https://blog.veltravel.ro/wp-content/uploads/2023/02/1.-Pastele-in-Germania-Saptamana-Sfanta-si-preparate-traditionale-care-se-fac-in-aceste-zile-1024x683.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200vh;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    color: rgb(74, 74, 170);
+}
+header {
+    background-color: azure;
+    margin-inline: 500px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    opacity: 80%;
+}
+a {
+    color:rgb(66, 58, 58);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+div {
+    background-color:azure;
+    margin-inline: 30px;
+    border-radius: 8px;
+    opacity: 80%;
+    padding: 30px;
+    height: 600px;
+}
+img {
+    border-radius: 10px;
+    max-width: 100%;
+    margin: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}

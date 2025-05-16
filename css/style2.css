@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2019/02/13/14/43/easter-theme-3994472_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200vh;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    color: red;
+}
+header {
+    background-color: azure;
+    margin-inline: 500px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    opacity: 80%;
+}
+a {
+    color:green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+div {
+    background-color:rgb(223, 223, 68);
+    margin-inline: 30px;
+    border-radius: 8px;
+    opacity: 80%;
+    padding: 30px;
+    height: 1200px;
+}
