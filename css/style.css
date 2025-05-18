@@ -4,7 +4,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 200vh;
+    height: 120vh;
     margin: 0;
 }
 h1 {
@@ -22,6 +22,7 @@ a {
     color:rgb(66, 58, 58);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
+    margin-right: 40px;
 }
 div {
     background-color:azure;
